@@ -22,11 +22,11 @@
 
 Primeiro desafio realizado no curso Ignite da [Rocketseat](https://rocketseat.com.br/).
 
-Após clonar o template, era necessário fazer a logica de três funcionalidades entre ela:
+Após clonar o template, era necessário fazer a logica de três funcionalidades entre elas:
 
-Adicionar um tarefa.
-Selecionar tarefa por um ID.
-Excluir tarefa por um ID.
+- Adicionar um tarefa.
+- Selecionar tarefa por um ID.
+- Excluir tarefa por um ID.
 
 ## 📝 Ambiente
 
